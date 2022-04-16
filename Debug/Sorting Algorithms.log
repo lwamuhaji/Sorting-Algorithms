@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\lwamu\source\repos\Sorting Algorithms\소스.cpp(42,10): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+  Sorting Algorithms.vcxproj -> C:\Users\lwamu\source\repos\Sorting Algorithms\Debug\Sorting Algorithms.exe
